@@ -1,2 +1,3 @@
 hola
 intento a vincular Proyecto a DEVELOPER WEB
+Al parecer se ha vinculado sin problema, incluso combinando Github Desktop y VSCode
